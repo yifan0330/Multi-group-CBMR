@@ -1,0 +1,21 @@
+# Exclude large simulation data directories
+brain_simulation/high_intensity/
+brain_simulation/low_intensity/
+brain_simulation/output/
+
+# Large data files
+*.npy
+*.npz
+X_spatial
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+logs/

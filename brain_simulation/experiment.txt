@@ -1,0 +1,2 @@
+main.py --run_regression --num_jobs=10 --use_brain_mask --bump_signal --use_penalty --cpu_per_job=24
+main.py --run_regression --num_jobs=10 --use_brain_mask --bump_signal --use_penalty --cpu_per_job=24

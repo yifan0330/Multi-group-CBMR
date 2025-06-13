@@ -1,0 +1,1 @@
+main.py --run_regression --num_jobs=10 --use_brain_mask --use_penalty --cpu_per_job=24

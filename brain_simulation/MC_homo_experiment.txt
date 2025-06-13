@@ -1,0 +1,8 @@
+main.py --run_regression --num_jobs=5 --use_brain_mask --use_penalty --use_high_intensity --use_monte_carlo --cpu_per_job=24
+main.py --run_regression --num_jobs=5 --use_brain_mask --use_penalty --use_high_intensity --use_monte_carlo --cpu_per_job=24
+main.py --run_regression --num_jobs=5 --use_brain_mask --use_penalty --use_high_intensity --use_monte_carlo --cpu_per_job=24
+
+main.py --run_regression --num_jobs=5 --use_brain_mask --use_penalty --use_monte_carlo --cpu_per_job=24
+main.py --run_regression --num_jobs=5 --use_brain_mask --use_penalty --use_monte_carlo --cpu_per_job=24
+main.py --run_regression --num_jobs=5 --use_brain_mask --use_penalty --use_monte_carlo --cpu_per_job=24
+main.py --run_regression --num_jobs=5 --use_brain_mask --use_penalty --use_monte_carlo --cpu_per_job=24
